@@ -1,14 +1,14 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # SaaS - Software as a Service
 
-SaaS uses a subscription model to deliver software or applications over the internet.
+SaaS is a cloud computing service model. It uses a subscription model to deliver software or applications over the internet.
 
-Most SaaS are multi-tenant applications. The software is centrally hosted, and there are multiple clients using the same application. Each client has their own place in the application to securely store their data. Updating and maintaining the software is part of the subscription and thus up to the provider.
+Like other cloud computing service models, most SaaS are multi-tenant applications. The software is centrally hosted, there are multiple clients using the same application. Each client has their own place in the application to securely store their data. Updating and maintaining the software is part of the subscription and thus up to the provider.
 
-SaaS has the highest level of abstaction of the different Cloud Computing Models. It maintains everything from hardware and OS to the application and its data.
+SaaS has the highest level of abstaction of the different cloud computing service models. It maintains everything from hardware and OS to the application and its data.
 
 ## Characteristics
 
@@ -34,6 +34,8 @@ Since the software is centrally hosted, the software has no access to internal s
 ### Cost
 
 SaaS applications have one all-in monthly subscription. This includes, but is not limited to: hosting, maintenance and support. In comparison to more traditional on-premise (ToDo) solutions, there is no need for a maintenance team with specialized knowledge about this application.
+
+As a cloud computing service model, there are often no or small capital expenses (upfront costs).
 
 ### Scalability
 
@@ -64,5 +66,5 @@ Examples include:
 
 ## Sources
 
-[Wikipedia](https://en.wikipedia.org/wiki/Software_as_a_service)
-[IBM Technology](https://www.youtube.com/watch?v=20QUNgFIrK0)
+- [Wikipedia](https://en.wikipedia.org/wiki/Software_as_a_service)
+- [IBM Technology](https://www.youtube.com/watch?v=20QUNgFIrK0)
