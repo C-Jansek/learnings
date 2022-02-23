@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Cloud computing (as a service)
 
-Cloud computing comes in different forms, including: [SaaS](software-as-a-service.md), [PaaS](platform-as-a-service.md) or [IaaS](infrastructure-as-a-service.md).
+Cloud computing comes in different forms, including: [SaaS](service-models/software-as-a-service.md), [PaaS](service-models/platform-as-a-service.md) or [IaaS](service-models/infrastructure-as-a-service.md).
 
 Cloud computing is a way of delivering the product to the client. The on-demand availability of computer system resources.
 
