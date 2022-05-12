@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Thesaurus
 
-> Defenitions are from CodeCademy.com
+> Definitions are from CodeCademy.com
 
 ## Deployment
 
@@ -49,3 +49,11 @@ The ability to automatically add or subtract resources to accommodate fluctuatin
 ### Orchestration
 
 The automated configuration, management, and coordination of infrastructure.
+
+## Metrics
+
+Metrics express a value relevant to the system at a specific point fo time.
+
+## Observability
+
+Observability is the degree to which a system's information can be used to locate and fix a problem.
